@@ -305,4 +305,21 @@ footer {
     header {
         padding: 20px 30px;
     }
+
+}/* HERO IMAGE FIX */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px 8%;
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+
+.hero img {
+  width: 45%;
+  max-width: 550px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
