@@ -306,7 +306,8 @@ footer {
         padding: 20px 30px;
     }
 
-}/* HERO IMAGE FIX */
+}
+
 .hero {
   display: flex;
   align-items: center;
@@ -323,3 +324,4 @@ footer {
   border-radius: 16px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
+
